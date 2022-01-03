@@ -3,7 +3,7 @@
 ## **Contacts**
 
   * E-mail: hafuinc@gmail.com
-  * Discord: Nikolay(@HafuMafu#6937)
+  * Discord: Hafu(@HafuMafu#6937)
 
 ## **About me**
 
@@ -25,7 +25,7 @@ function multiply (a, b) {
 
 ## **Projects**
 
-  Markdown & Git
+  CV. Cross-Check
 
 ## **Education**
 
