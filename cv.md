@@ -1,33 +1,35 @@
-# **Nikolay R**#
+# **Nikolay R**
 
-## **Contacts**##
+## **Contacts**
 
   * E-mail: hafuinc@gmail.com
-  * Discord: Nikolay(@HafuMafu)
+  * Discord: Nikolay(@HafuMafu#6937)
 
-## **About me**##
+## **About me**
 
   On the road to front-end
 
-## **Skills**##
+## **Skills**
 
   * HTML5
   * CSS3
+  * Git
 
-## **Code example**##
+## **Code example**
 
 ```function multiply (a, b) {
-return a * b
+  return a * b
 }```
 
-## **Experiance**##
+## **Projects**
 
   Markdown & Git
 
-## **Education**##
+## **Education**
 
-  Bogomolets National Medical University
+  * Bogomolets National Medical University
+  * RS School Javascript/Front-end - present
 
-## **Languages**##
+## **Languages**
 
   English — A2
