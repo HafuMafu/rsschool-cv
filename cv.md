@@ -1,33 +1,33 @@
-#**Nikolay R**#
+# **Nikolay R**#
 
-##**Contacts**##
+## **Contacts**##
 
-  *E-mail: hafuinc@gmail.com
-  *Discord: Nikolay(@HafuMafu)
+  * E-mail: hafuinc@gmail.com
+  * Discord: Nikolay(@HafuMafu)
 
-##**About me**##
+## **About me**##
 
   On the road to front-end
 
-##**Skills**##
+## **Skills**##
 
-  *HTML5
-  *CSS3
+  * HTML5
+  * CSS3
 
-##**Code example**##
+## **Code example**##
 
 ```function multiply (a, b) {
 return a * b
 }```
 
-##**Experiance**##
+## **Experiance**##
 
   Markdown & Git
 
-##**Education**##
+## **Education**##
 
   Bogomolets National Medical University
 
-##**Languages**##
+## **Languages**##
 
   English — A2
